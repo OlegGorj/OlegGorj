@@ -17,7 +17,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,golang,java,c,bash,yaml,groovy)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,golang,java,c,bash,shell,groovy)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
