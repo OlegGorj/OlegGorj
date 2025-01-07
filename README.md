@@ -1,13 +1,41 @@
-## Hi  👋
+# Hi, I'm OG 👋
 
-<div align="center">
-    <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+[Your Name];This+is..;..my+Github..;" alt="Typing SVG"/>
-    </h1>
-</div>
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=oleggorj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
+- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
+- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+
+## My Articles
+- [Automated deployment of Kubernetes resources with Flux CD](https://medium.com/@oleggorj/automated-deployment-of-kubernetes-resources-with-flux-cd-ff9fdc6c4ea4)
+- [A common way of managing configurations for multiple environments](https://itnext.io/a-standard-way-of-managing-configurations-for-multiple-environments-and-clouds-ee8d54703efc)
+- [CKA/CKAD exam: Managing ETCD cluster](https://itnext.io/cka-ckad-exam-managing-etcd-cluster-fc3feecfab5c)
+- [Deploy Jenkins with Docker and Ansible](https://medium.com/@oleggorj/deploy-jenkins-with-docker-and-ansible-c76ee7854440)
+
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+
+
+ ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+
+## 📬 Get in Touch
+
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+
+
 
 <!--
-**OlegGorj/OlegGorj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,5 +45,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
+- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
