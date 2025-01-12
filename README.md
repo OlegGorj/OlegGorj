@@ -90,11 +90,19 @@
 
 ## 🌱 Currently Exploring
 
+- 🔄 Temporal.io - Learning distributed workflow orchestration and building reliable distributed systems
+- 🤖 OpenAI Technologies:
+  - GPT-4 API integration for intelligent applications
+  - DALL-E 3 for AI-powered image generation
+  - OpenAI Function Calling for structured API interactions
+
 
 
  ## 🏆 Achievements
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
+
+- Completed Azure Solution Architect Expert Certification - Demonstrated expertise in designing and implementing solutions that run on Microsoft Azure.
 
 
 ## 📬 Get in Touch
