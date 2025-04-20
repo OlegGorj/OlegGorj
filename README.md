@@ -95,6 +95,7 @@
   - GPT-4 API integration for intelligent applications
   - DALL-E 3 for AI-powered image generation
   - OpenAI Function Calling for structured API interactions
+- 🔄 Backstage.io
 
 
 
@@ -104,6 +105,7 @@
 
 - Completed Azure Solution Architect Expert Certification - Demonstrated expertise in designing and implementing solutions that run on Microsoft Azure.
 
+- Completed GitHub Actions Certification
 
 ## 📬 Get in Touch
 
