@@ -1,18 +1,39 @@
 # Hi, I'm OG 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleggorj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+## 🚀 Let's start with a quick intro
 
-## 🚀 About Me
+I'm a Cloud Solutions Architect and DevOps Engineer with over a decade of experience in building scalable, distributed systems and cloud-native applications. My journey in technology has been driven by a passion for automation, infrastructure excellence, and helping organizations modernize their technology stacks.
 
-I'm a Cloud Solutions Architect and DevOps Engineer with expertise in building scalable, distributed systems and cloud-native applications.
+### 💼 Professional Background
 
-- 📝 I write in-depth, long-form articles on medium.com, sharing insights on cloud architecture, Kubernetes, and modern DevOps practices.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
-- ☁️ Passionate about cloud infrastructure, infrastructure-as-code, and automated deployment pipelines.
-- 🎯 Focus areas: Kubernetes, CI/CD, workflow orchestration, and AI-powered automation.
+With extensive hands-on experience in enterprise cloud architecture, I specialize in:
+- **Cloud Infrastructure & Architecture**: Designing and implementing multi-cloud solutions on Azure, AWS, and GCP with a focus on high availability, disaster recovery, and cost optimization
+- **DevOps & Platform Engineering**: Building self-service platforms that empower development teams with automated CI/CD pipelines, GitOps workflows, and infrastructure-as-code practices
+- **Container Orchestration**: Deep expertise in Kubernetes ecosystem, including service mesh architectures, cluster management, and cloud-native design patterns
+- **AI & Automation**: Integrating AI capabilities into DevOps workflows, developing MCP servers, and creating intelligent automation agents for infrastructure management
+
+### 🎓 Certifications & Expertise
+- ☁️ **Microsoft Certified: Azure Solutions Architect Expert** - Proven expertise in designing enterprise-grade Azure solutions
+- 🚀 **GitHub Actions Certified** - Advanced proficiency in CI/CD automation and workflow orchestration
+- 🎯 **Kubernetes Specialist** - Extensive experience with CKA/CKAD level knowledge in container orchestration
+
+### ✍️ Technical Writing & Community
+
+I'm passionate about sharing knowledge and contributing to the developer community:
+- 📝 **Technical Author** - Publishing in-depth, long-form articles on [Medium](https://medium.com/@oleggorj), sharing insights on cloud architecture, Kubernetes, and modern DevOps practices
+- 🌐 **HackerNoon Contributor** - Member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/u/oleggorj), writing about cutting-edge technologies and best practices
+- ✍️ **freeCodeCamp Writer** - Contributing educational content to help developers learn cloud technologies and DevOps methodologies
+- 🎤 **Tech Community Advocate** - Active participant in cloud-native communities and open-source projects
+
+### 🔧 Current Focus
+
+- ☁️ Building resilient cloud infrastructure with infrastructure-as-code (Terraform, Ansible)
+- 🔄 Implementing workflow orchestration solutions using Temporal.io and modern distributed systems patterns
+- 🤖 Exploring AI-powered DevOps tools, LLM integrations, and developing specialized AI agents for automation
+- 🎭 Creating internal developer portals and service catalogs using Backstage.io
+- 🚀 Advanced GitOps deployment strategies with Flux CD and ArgoCD
 
 ## My Articles
 - [Automated deployment of Kubernetes resources with Flux CD](https://medium.com/@oleggorj/automated-deployment-of-kubernetes-resources-with-flux-cd-ff9fdc6c4ea4)
@@ -53,7 +74,7 @@ I'm a Cloud Solutions Architect and DevOps Engineer with expertise in building s
   <a href="https://www.microsoft.com/it-it/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" />
   </a>
-<h3>Data Base</h3>
+<h3>Database</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -137,6 +158,13 @@ I'm a Cloud Solutions Architect and DevOps Engineer with expertise in building s
 - 🎯 **Cloud-Native Advocate** - Active contributor to cloud-native communities and open-source Kubernetes ecosystem projects.
 
 ## 📬 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleggorj/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@oleggorj)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlegGorj)
+[![HackerNoon](https://img.shields.io/badge/HackerNoon-00FF00?style=for-the-badge&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/oleggorj)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/news/author/oleggorj/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oleggorj)
 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
