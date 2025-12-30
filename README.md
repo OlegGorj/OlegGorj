@@ -4,7 +4,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleggorj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
-## 🚀 About Me
+## 🚀 Well.. let's start with quick intro
 
 I'm a Cloud Solutions Architect and DevOps Engineer with expertise in building scalable, distributed systems and cloud-native applications.
 
