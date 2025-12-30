@@ -75,7 +75,7 @@ I'm passionate about sharing knowledge and contributing to the developer communi
   <a href="https://www.microsoft.com/it-it/" target="_blank" rel="noreferrer">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="40" height="40" />
   </a>
-<h3>Data Base</h3>
+<h3>Database</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
