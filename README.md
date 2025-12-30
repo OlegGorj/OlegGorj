@@ -1,7 +1,7 @@
 # Hi, I'm OG 👋
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oleggorj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlegGorj&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 
 ## 🚀 Let's start with a quick intro
