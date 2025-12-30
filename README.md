@@ -1,7 +1,6 @@
 # Hi, I'm OG 👋
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlegGorj&theme=vue-dark&show_icons=true&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlegGorj&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
 
 
 ## 🚀 Let's start with a quick intro
