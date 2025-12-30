@@ -1,8 +1,5 @@
 # Hi, I'm OG 👋
 
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=OlegGorj&color=blueviolet&style=flat-square)
-</div>
 
 
 ## 🚀 Let's start with a quick intro
