@@ -1,6 +1,7 @@
 # Hi, I'm OG 👋
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlegGorj&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OlegGorj)](https://git.io/streak-stats)
 
 
 ## 🚀 Let's start with a quick intro
@@ -166,7 +167,7 @@ I'm passionate about sharing knowledge and contributing to the developer communi
 [![HackerNoon](https://img.shields.io/badge/HackerNoon-00FF00?style=for-the-badge&logo=hackernoon&logoColor=black)](https://hackernoon.com/u/oleggorj)
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/news/author/oleggorj/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/oleggorj)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oleggorj@hotmail.com)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
