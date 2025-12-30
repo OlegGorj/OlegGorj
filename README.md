@@ -1,6 +1,10 @@
 # Hi, I'm OG 👋
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=OlegGorj&theme=vue-dark&hide_border=true)
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=OlegGorj&color=blueviolet&style=flat-square)
+  
+</div>
 
 
 ## 🚀 Let's start with a quick intro
