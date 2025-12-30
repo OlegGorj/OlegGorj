@@ -128,7 +128,7 @@ I'm a Cloud Solutions Architect and DevOps Engineer with expertise in building s
 
 - 🌟 **Hacktoberfest 2023** - Hacktoberfest 2023, contributed to open source projects and celebrated the spirit of collaboration.
 
-- ☁️ **Azure Solution Architect Expert** - Certified Azure Solutions Architect Expert, demonstrating expertise in designing and implementing solutions that run on Microsoft Azure.
+- ☁️ **Azure Solutions Architect Expert** - Microsoft-certified in designing and implementing solutions on Microsoft Azure.
 
 - 🚀 **GitHub Actions Certified** - Completed GitHub Actions Certification, showcasing proficiency in CI/CD automation and workflow design.
 
