@@ -107,6 +107,21 @@ I'm a Cloud Solutions Architect and DevOps Engineer with expertise in building s
 - 🔧 **Infrastructure as Code**: Terraform, Ansible, and declarative infrastructure management
 - 🤖 **AI/ML Integration**: Exploring LLM integration patterns, vector databases, and AI-powered DevOps tools
 
+## 💼 Current Projects & Focus Areas
+
+- 🏗️ **Platform Engineering**: Building self-service infrastructure platforms that enable development teams to provision and manage resources autonomously through declarative APIs and automated workflows
+- 🔌 **MCP Server Development**: Creating Model Context Protocol (MCP) servers to extend AI capabilities with custom tools, enabling seamless integration between LLMs and external systems, APIs, and data sources
+- 🤖 **AI Agent Development**: Designing and implementing specialized AI agents for:
+  - Automated infrastructure provisioning and configuration management
+  - Intelligent code review and security analysis
+  - DevOps workflow automation and optimization
+  - Self-healing systems and predictive maintenance
+- ⚙️ **Infrastructure Automation**: Developing comprehensive automation frameworks for:
+  - Multi-cloud resource orchestration
+  - Automated compliance and security scanning
+  - Cost optimization and resource right-sizing
+  - Disaster recovery and backup automation
+
 
 
  ## 🏆 Achievements
